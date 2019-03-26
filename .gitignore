@@ -1,0 +1,7 @@
+
+.DS_Store
+.idea/
+apache-tomcat-6.0.9-src.iml
+target/
+work/
+/output/
